@@ -1,6 +1,7 @@
-# Pandownload-fake-server 伪装服务器验证
-感谢大佬的分享，源项目已被删，目前本人拷贝了一份
+#感谢大佬的分享，源项目已被删，目前本人拷贝了一份
 <br>
+源项目：https://github.com/TkzcM/pandownload-fake-server
+# Pandownload-fake-server 伪装服务器验证
 https://www.hostloc.com/thread-675311-1-1.html
 <br>
 感谢 hostloc@xjxaixxy 大佬提供的思路与文件
