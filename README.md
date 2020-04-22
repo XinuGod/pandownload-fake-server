@@ -14,10 +14,10 @@ https://www.hostloc.com/thread-675311-1-1.html
 
 由于请求内有算法生成的bdc token，此方法的有效时间未知，且用且珍惜
 <br>
-也可自己使用fake-server文件
-[点我下载](https://github.com/XinuGod/pandownload-fake-server/blob/master/PanDownload_fake_server.zip?raw=true)
+当然，也可自己使用fake-server文件
+[点我下载](https://github.com/XinuGod/pandownload-fake-server/blob/master/pandownload_fake_server.zip?raw=true)
 <br>
-用来搭建本地webserver，搭建完毕后添加hosts
+下载完成后用来搭建本地webserver，搭建完毕后添加hosts
 
 ```
 127.0.0.1 pandownload.com
