@@ -1,4 +1,4 @@
-#感谢大佬的分享，源项目已被删，目前本人拷贝了一份
+# 感谢大佬的分享，源项目已被删，目前本人拷贝了一份
 <br>
 源项目：https://github.com/TkzcM/pandownload-fake-server
 # Pandownload-fake-server 伪装服务器验证
