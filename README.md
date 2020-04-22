@@ -5,7 +5,7 @@ https://www.hostloc.com/thread-675311-1-1.html
 # 使用方法
 1. 下载带脚本缓存的Pandownload
 [点我下载](https://github.com/XinuGod/pandownload-fake-server/blob/master/PanDownload_add_temp.zip?raw=true)
-<br>
+
 2. hosts添加
 
 ```
