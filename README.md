@@ -28,7 +28,7 @@ https://www.hostloc.com/thread-675311-1-1.html
 127.0.0.1 pandownload.com
 ```
 
-3.愉快使用！
+ 3.愉快使用！
 
 # Pandownload实用插件
 https://github.com/XinuGod/pandownload-lua
